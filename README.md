@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hello, I'm Ghulam Hussain Khan Sherwani
+## Welcome to my Github Profile, I am interested in Web Development, Cloud, Data and AI. I have worked in Web and AI but still learning on the CLoud and Big Data
+
+
+[![Hussain Khan Sherwani's GitHub stats](https://github-readme-stats.vercel.app/api?username=hussainkhansherwani&theme=merko&show_icons=true)](https://github.com/hussainkhansherwani/github-readme-stats)
+
+
 
 <!--
 **HussainKhanSherwani/hussainkhansherwani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
